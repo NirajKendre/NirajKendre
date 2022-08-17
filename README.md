@@ -22,12 +22,12 @@ I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hi
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajKendre" alt="GitHub Stats" /> <br/><br/>
 </div>
 
-<div>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_ni__raj/">
-        <img src="https://img.icons8.com/clouds/2x/instagram-new--v3.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/niraj-kendre-669459219/">
-        <img src="https://img.icons8.com/office/2x/linkedin.png" ></a>
-</div>
+    <div>
+        <a style="margin-left: 300px;" target="_blank" href="https://www.instagram.com/_ni__raj/">
+            <img  style="width: 100px;height: 100px;" src="https://img.icons8.com/ultraviolet/2x/instagram-new.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/niraj-kendre-669459219/">
+            <img style="width: 100px;height: 100px;" src="https://img.icons8.com/office/2x/linkedin.png" ></a>
+    </div>
 
 ---------------------------------------------------------------------------------------------------------------------
 
