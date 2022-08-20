@@ -22,7 +22,7 @@ I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hi
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajKendre" alt="GitHub Stats" /> <br/><br/>
 </div>
 <div>
-<p>My Portfolio :- https://funny-alpaca-30009c.netlify.app/</p>
+<p>My Portfolio :- https://niraj-kendre-30009c.netlify.app/</p>
 
 </div>
 <h2>👯 My Social Network<h2>
