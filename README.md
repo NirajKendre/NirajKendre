@@ -15,6 +15,9 @@ I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hi
 - 📫 Reach out to me at: nirajkendre45@gmail.com
 
 
+
+<h2>Programming Language </h2>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <h2>👀 My github Stats</h2>
