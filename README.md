@@ -16,11 +16,19 @@ I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hi
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>My Skills</h2>
+<h2>📝 My Skills</h2>
 
 <h4>Programming Language </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
+
+<h4>Frontend Development</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+<h4>Backend Development</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=hibernate,spring,sql)](https://skillicons.dev)
 
 <h2>👀 My github Stats</h2>
 
