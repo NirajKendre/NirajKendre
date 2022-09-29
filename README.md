@@ -14,7 +14,10 @@ I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hi
 - Outside tech, 📖 I love to read novels, playing 👑 chess and ⚽ football, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: nirajkendre45@gmail.com
 
------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>My Portfolio</h3>
+<p>👉<a href="https://niraj-kendre-30009c.netlify.app/"></a>Click Here</p>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>📝 My Skills</h2>
 
@@ -45,7 +48,7 @@ I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hi
 </div>
 
 <div>
-<p>My Portfolio :- https://niraj-kendre-30009c.netlify.app/</p>
+
 
 </div>
 <h2>👯 My Social Network<h2>
