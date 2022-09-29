@@ -30,13 +30,20 @@ I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hi
 
 [![My Skills](https://skillicons.dev/icons?i=hibernate,spring,mysql)](https://skillicons.dev)
 
+<h4>Software & tools</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=idea,github,netlify,eclipse)](https://skillicons.dev)
+
 <h2>👀 My github Stats</h2>
 
 <div>  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
+  <p align="left">
+  <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajKendre" alt="GitHub Stats" /> <br/><br/>
+    <img src=" https://github-readme-stats.vercel.app/api?username=NirajKendre" alt="GitHub Stats" /> <br/><br/>
+   
 </div>
+
 <div>
 <p>My Portfolio :- https://niraj-kendre-30009c.netlify.app/</p>
 
