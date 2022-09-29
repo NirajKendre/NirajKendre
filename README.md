@@ -40,7 +40,7 @@ I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hi
   <p align="left">
   <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajKendre" alt="GitHub Stats" /> <br/><br/>
-    <img src=" https://github-readme-stats.vercel.app/api?username=NirajKendre" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=NirajKendre" alt="GitHub Stats" /> <br/><br/>
    
 </div>
 
