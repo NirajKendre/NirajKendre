@@ -14,6 +14,9 @@ I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hi
 - Outside tech, 📖 I love to read novels, playing 👑 chess and ⚽ football, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: nirajkendre45@gmail.com
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <h2>👀 My github Stats</h2>
 
 <div>  
