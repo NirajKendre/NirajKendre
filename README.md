@@ -20,6 +20,12 @@ I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hi
 <h3>My Resume</h3>
 <p>👉<a href="https://drive.google.com/file/d/1SOJo6g58lrpIPt9dy8gRfqeP5ERg2ccA/view?usp=sharing" target="_blank">Click Here</a></p>
 
+<h2>👯 My Social Network<h2>
+<div>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/niraj-kendre-669459219/">
+            <img style="width: 50px;height: 50px;" src="https://img.icons8.com/office/2x/linkedin.png" ></a>
+ </div>
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>📝 My Skills</h2>
