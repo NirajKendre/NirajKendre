@@ -4,8 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-
-I am aspiring Java Developer. 
+Aspiring Java Developer.
 Java, MySQL, Hibernate, Postman, RDBMS, SpringBoot,Javascript, HTML, and CSS  are the programming languages I am good at. 
 I love to learn and build something new, productive, innovative and creative.
 
