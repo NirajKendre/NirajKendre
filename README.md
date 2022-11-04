@@ -15,7 +15,7 @@ I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hi
 - 📫 Reach out to me at: nirajkendre45@gmail.com
 
 <h3>My Portfolio</h3>
-<p>👉<a href="[https://niraj-kendre-2b4c23.netlify.app/](https://nirajkendre.github.io/)" target="_blank">Click Here</a></p>
+<p>👉<a href="https://niraj-kendre-2b4c23.netlify.app/](https://nirajkendre.github.io/)" target="_blank">Click Here</a></p>
 
 <h3>My Resume</h3>
 <p>👉<a href="https://drive.google.com/file/d/1SOJo6g58lrpIPt9dy8gRfqeP5ERg2ccA/view?usp=sharing" target="_blank">Click Here</a></p>
