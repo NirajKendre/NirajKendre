@@ -4,11 +4,12 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hibernate, Javascript, HTML, and CSS  are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+Seeking for entry-level position with the prestigious company where I can use my skills to advance both my career and the company.
+Java, MySQL, Hibernate, Javascript, HTML, and CSS  are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 
 - 🌱 I’m currently learning ...
-  - Java
-  - MySQL
+  - Hibernate
+  - SpringBoot
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, playing 👑 chess and ⚽ football, 🎵 listen to music, and 🌴 explore nature outdoors.
