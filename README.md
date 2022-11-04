@@ -56,8 +56,6 @@ I am an graduated Mechanical Engineering student at YCCE Nagpur. Java, MySQL, Hi
 </div>
 <h2>👯 My Social Network<h2>
 <div>
-        <a style="margin-left: 300px;" target="_blank" href="https://www.instagram.com/_ni__raj/">
-            <img  style="width: 50px;height: 50px;" src="https://img.icons8.com/ultraviolet/2x/instagram-new.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/niraj-kendre-669459219/">
             <img style="width: 50px;height: 50px;" src="https://img.icons8.com/office/2x/linkedin.png" ></a>
  </div>
