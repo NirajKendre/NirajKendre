@@ -4,8 +4,10 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Seeking for entry-level position with the prestigious company where I can use my skills to advance both my career and the company.
-Java, MySQL, Hibernate, Javascript, HTML, and CSS  are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+
+I am aspiring Java Developer. 
+Java, MySQL, Hibernate, Postman, RDBMS, SpringBoot,Javascript, HTML, and CSS  are the programming languages I am good at. 
+I love to learn and build something new, productive, innovative and creative.
 
 - 🌱 I’m currently learning ...
   - Hibernate
